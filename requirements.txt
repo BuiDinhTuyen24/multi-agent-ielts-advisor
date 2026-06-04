@@ -1,0 +1,4 @@
+crewai
+google-generativeai
+pandas
+python-dotenv
